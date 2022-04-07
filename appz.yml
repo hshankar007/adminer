@@ -1,7 +1,7 @@
 app:
     name: Adminer
     code: adminer
-    notify: appz@ecloudcontrol.com
+    notify: hshankar@ecloudcontrol.com
     
 build:
     version: 4.8
